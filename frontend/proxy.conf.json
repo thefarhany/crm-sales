@@ -1,0 +1,12 @@
+{
+  "/api": {
+    "target": "http://52.220.35.232:8899",
+    "secure": false,
+    "changeOrigin": true
+  },
+  "/uploads": {
+    "target": "http://52.220.35.232:8899",
+    "secure": false,
+    "changeOrigin": true
+  }
+}
